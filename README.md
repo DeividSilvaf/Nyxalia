@@ -1,13 +1,13 @@
 ## 🌾 Olá! Eu sou a Nyxalia! Amo dias chuvosos, chá e boas conversas (´ ∀ ` *)
 
-•🍄 Estudando JavaScript 
-•🌱 Pronomes: Ela/Dela 
-•🤎 Neurodivergente e Sinestésica •
+• Estudando JavaScript 
+• Pronomes: Ela/Dela 
+• Neurodivergente e Sinestésica •
 
 <div>
   <a href="https://github.com/Nyxalia">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nyxalia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxalia&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Nyxalia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxalia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
